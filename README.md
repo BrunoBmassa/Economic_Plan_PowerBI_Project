@@ -41,7 +41,7 @@ The goal is to provide clear insights into the commercial performance of the ope
 >  **Confidentiality Notice**  
 > The original dataset used in this dashboard contains **confidential business information** and **cannot be publicly shared** due to internal policy and data protection regulations (e.g. LGPD).  
 >
-> However, a **fictional dataset** (`dados_exemplo_acordos.xlsx`) with similar structure has been made available for demonstration purposes and testing.
+> However, a **fictional dataset** (`fictitious.xlsx`) with similar structure has been made available for demonstration purposes and testing.
 
 ---
 
