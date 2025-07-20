@@ -3,7 +3,7 @@
 This project presents an **interactive Power BI dashboard** developed to monitor financial agreements related to economic plans. 
 The goal is to provide clear insights into the commercial performance of the operation, using key business metrics and year-over-year comparisons.
 
-![Dashboard Preview](./c5696eb3-d7a8-41b1-9a31-b4d018806854.png)
+![Dashboard Preview](./dashboard.jfif)
 
 ---
 
